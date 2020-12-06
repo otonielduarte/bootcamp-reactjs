@@ -1,5 +1,7 @@
 import React from 'react';
 
-export default function App() {
-  return <></>
-}
+const App: React.FC = () => {
+  return <></>;
+};
+
+export default App;
